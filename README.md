@@ -1,9 +1,15 @@
-CSV Fields
+
+Will include a detailed description of the purpose of this project later, gotta cook some food first.
+
+
+
+
+# CSV Fields
 
 
 Fields
-articleBodY
-articleBodß.tm.l
+articleBody
+articleBodyHtml
 authors
 breadcrumbs
 canonicalUrl
@@ -11,10 +17,10 @@ dateModified
 dateModifiedRaw
 datePublished
 datePublishedRaw
-descri&n
+description
 headline
 images
 inLanguage
-mainlmage
+mainImage
 metadata
 url
