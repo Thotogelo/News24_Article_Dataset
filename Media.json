@@ -1,0 +1,55 @@
+{
+    "businessLIVE": {
+        "url": "https://www.businesslive.co.za/",
+        "category": "business"
+    },
+    "businessTECH": {
+        "url": "www.business-tech.co.za",
+        "category": "business"
+    },
+    "DailyMaverick": {
+        "url": "https://www.dailymaverick.co.za/",
+        "category": "business"
+    },
+    "eNCA": {
+        "url": "https://www.enca.com/",
+        "category": "business"
+    },
+    "GroundUp": {
+        "url": "https://www.groundup.org.za/",
+        "category": "news"
+    },
+    "IOLNews": {
+        "url": "https://www.iol.co.za/",
+        "category": "news"
+    },
+    "MyBroadband": {
+        "url": "https://www.mybroadband.co.za/",
+        "category": "tech"
+    },
+    "News24": {
+        "url": "https://www.news24.com/",
+        "category": "news"
+    },
+    "SowetanLIVE": {
+        "url": "https://www.sowetanlive.co.za/",
+        "category": "news"
+    },
+    "TheCitizen": {
+        "url": "https://www.thecitizen.co.za/",
+        "category": "news"
+    },
+    "TheMail&Guardian": {
+        "url": "https://www.theguardian.com/",
+        "category": "news"
+    },
+    "TheSouthAfrican": {
+        "url": "https://www.thesouthafrican.com/",
+        "category": "news"
+    },
+    "TimesLive": {
+        "url": "https://www.timeslive.co.za/",
+        "category": "news"
+    }
+
+}
